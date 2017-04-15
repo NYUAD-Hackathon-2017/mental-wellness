@@ -11,15 +11,15 @@ Walid Abismail, Algeria, Ecole Nationale Supérieure d’informatique, ESI ex IN
 
 Muhammad Owais, University of Sharjah, UAE
 
-Brook Hopkins, NYUAD, UAE
+Brook Hopkins, NYUAD, UAE/USA
 
 Einea Omar, University of Sharjah, UAE
 
 
 Mentors:
 
-Baris Yuksel, Former Google Engineer, Turkey
+Baris Yuksel, Former Google Engineer, Turkey/USA
 
-Tiffany Tong, Project Coordinator NYUAD, UAE
+Tiffany Tong, Project Coordinator NYUAD, UAE/USA
 
-Fabricio Pontes Harsich, Google, Argentina
+Fabricio Pontes Harsich, Google, Argentina/USA
