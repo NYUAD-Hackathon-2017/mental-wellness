@@ -2,6 +2,9 @@
 
 Project for the NYUAD Hackathon for the Social Good 2017
 
+**Presentation**
+https://docs.google.com/presentation/d/1DFj1zuhwJAwi_FGROgLUCvfxpuRZ6FS456HqYbgRYU0/edit
+
 # Team
 **Hackers**
 - Marisa Chow, Princeton University, USA
